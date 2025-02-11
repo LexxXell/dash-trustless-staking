@@ -67,3 +67,5 @@ Thumbs.db
 .env.development
 .env.test
 .env.production
+
+storage.json
